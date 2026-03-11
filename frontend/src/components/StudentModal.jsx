@@ -66,8 +66,6 @@ className="border p-2 w-full"
 {student ? "Update Student" : "Add Student"}
 
 
-Save
-
 </button>
 
 </form>
