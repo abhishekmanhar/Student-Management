@@ -1,4 +1,4 @@
-
+import { motion } from "framer-motion";
 import { useForm } from "react-hook-form"
 import { updateStudent, createStudent } from "../services/api"
 import toast from "react-hot-toast"
